@@ -8,3 +8,5 @@ seaborn
 scipy
 xlrd
 openpyxl
+requests
+beautifulsoup4
