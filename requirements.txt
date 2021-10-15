@@ -10,3 +10,4 @@ xlrd
 openpyxl
 requests
 beautifulsoup4
+statsmodels
