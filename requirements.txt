@@ -20,3 +20,10 @@ nltk
 pyLDAvis
 spacy
 vaderSentiment
+
+# Networks
+networkx
+python-louvain
+
+# Scaling up
+pyspark
